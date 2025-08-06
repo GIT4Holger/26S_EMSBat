@@ -1,12 +1,12 @@
 # STAT-Bat Notebooks
 
 
-This repository contains a collection of Jupyter notebooks supporting the BIP 2025 Smart Grid lecture series and its contribution by Prof. Dr. Holger Hesse at University of applied sciences Kempten. It is depreciated from a former version beeing set up at Technical University of Munich at the Chair for electric storage technology and was created by Martin Cornejo
+This repository contains a collection of Jupyter notebooks supporting the 26S course EMS Bat at HS Kempten held by Prof. Dr. Holger Hesse at University of Applied Sciences Kempten. It is depreciated from a former version beeing set up at Technical University of Munich at the Chair for Electric Storage Technology and contains materials created by Martin Cornejo
 
 
 ## Setup
 REMOTE Option:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GIT4Holger/25S_BIP_SmartGrid_Battery/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GIT4Holger/26S_EMSBat/main)
 
 
 ### additional info --- just fro geeks: Local installation w. conda
